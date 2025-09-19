@@ -1,0 +1,5 @@
+{
+  "name": "Smart Doc Checker",
+  "description": "An AI-powered agent that scans multiple documents to find contradictions, suggest clarifications, and generate clear reports on the findings. It helps ensure consistency across all your important files.",
+  "requestFramePermissions": []
+}
